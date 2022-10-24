@@ -9,9 +9,49 @@ body {
 }
 
 .profile-image {
+    align-self: center;
     margin-top: 5%;
+    margin-left: 4%;
+    margin-bottom: 5%;
     width: 100%;
-    position: relative;
     overflow: hidden;
-    border-radius: 50%;
+    border-radius: 25%;
+}
+
+.profile-image img {
+    width: 100%;
+    display: block;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.profile-column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    padding-right: 1%;
+    background-color:rgba(255, 169, 71, 0.668);
+    height: auto;
+}
+
+.skills-content {
+    text-align: center;
+    margin-left: 5%;
+}
+
+.main-column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 3;
+    padding-left: 1%;
+    background-color:rgba(39, 225, 239, 0.518);
+    height: 100%;
 }

@@ -1,0 +1,67 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: "Comic Sans", cursive;
+}
+
+.content {
+    height: 100%;
+}
+
+.profile-image {
+    align-self: center;
+    margin-top: -25px;
+    margin-left: -50px;
+    margin-bottom: -50px;
+    width: 80%;
+    overflow: hidden;
+    border-radius: 99%;
+}
+
+.profile-image img {
+    width: 100%;
+    display: block;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: right;
+}
+
+h2 {
+    text-align: right;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: end;
+    font-weight: bold;
+}
+
+.profile-column {
+    display: flex;
+    padding-right: 1%;
+    background-color:rgb(255, 0, 0);
+}
+
+.skills-content {
+    margin-right: 50%;
+    margin-left: -35px;
+}
+
+.main-column {
+    padding-left: 1%;
+    background-color:rgba(255, 0, 242, 0.871);
+    height: 75%;
+    margin-bottom: -50px;
+}
