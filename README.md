@@ -27,3 +27,14 @@ Gutenberg
 - Updated CSS paragraphs, header tags, image themes, color scheme and image backgrounds
 - Applied the style to the main html files with "<link rel="stylesheet" href="styles.css">" and removed any conflicting styles
 - Moved the cover image if existent to under the titles
+
+=================
+Homepage
+- Made resume style good page
+- And very ugly space theme bad oage
+
+=================
+Sources Used
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://img.freepik.com/free-photo/vintage-crumpled-paper-textured-background_53876-103940.jpg?w=1380&t=st=1666590323~exp=1666590923~hmac=05766f502a9c0f2369fc611330a3dc4a0b8be2e016911380247766233471a35a
+- https://unblast.com/wp-content/uploads/2021/01/Space-Background-Images.jpg 

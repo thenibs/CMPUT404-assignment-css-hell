@@ -23,6 +23,7 @@ body {
     display: block;
 }
 
+/* Got some ideas from https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
 .row {
     display: flex;
     flex-direction: row;

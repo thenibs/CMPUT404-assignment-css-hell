@@ -2,6 +2,8 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     font-family: "Comic Sans", cursive;
+    /* Source: https://unblast.com/wp-content/uploads/2021/01/Space-Background-Images.jpg */
+    background-image: url("images/Space-Background-Images.jpg");
 }
 
 .content {
@@ -33,25 +35,29 @@ body {
 
 h1 {
     text-align: right;
+    color: yellow;
 }
 
 h2 {
     text-align: right;
+    color: red;
 }
 
 h3 {
     text-align: center;
+    color: green;
 }
 
 p {
     text-align: end;
     font-weight: bold;
+    color: cyan;
 }
 
 .profile-column {
     display: flex;
     padding-right: 1%;
-    background-color:rgb(255, 0, 0);
+    background-color:rgba(255, 0, 0, 0.205);
 }
 
 .skills-content {
@@ -61,7 +67,7 @@ p {
 
 .main-column {
     padding-left: 1%;
-    background-color:rgba(255, 0, 242, 0.871);
+    background-color:rgba(255, 0, 242, 0.358);
     height: 75%;
     margin-bottom: -50px;
 }
