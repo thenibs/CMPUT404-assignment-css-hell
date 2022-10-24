@@ -1,0 +1,17 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: "Garamond", Serif;
+}
+
+.content {
+    height: 100%;
+}
+
+.profile-image {
+    margin-top: 5%;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
