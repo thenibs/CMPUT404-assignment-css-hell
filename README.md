@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+=================
+Gutenberg
+- Updated CSS paragraphs, header tags, image themes, color scheme and image backgrounds
+- Applied the style to the main html files with "<link rel="stylesheet" href="styles.css">" and removed any conflicting styles
+- Moved the cover image if existent to under the titles

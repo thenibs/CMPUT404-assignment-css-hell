@@ -1,0 +1,70 @@
+body {
+    margin-right: 20%;
+    margin-left: 20%;
+    /* Source: https://img.freepik.com/free-photo/vintage-crumpled-paper-textured-background_53876-103940.jpg?w=1380&t=st=1666590323~exp=1666590923~hmac=05766f502a9c0f2369fc611330a3dc4a0b8be2e016911380247766233471a35a */
+    background-image: url("images/vintage-crumpled-paper-textured-background_53876-103940.webp");
+}
+
+p {
+    font-family: "Lucida Console", monospace;
+    padding-bottom: 3%;
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    line-height: 1.5;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    font-family: "Lucida Console", monospace;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 300%;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+    letter-spacing: 0.12em;
+    word-spacing: 0.2em;
+    text-indent: 0em;
+}
+
+h2 {
+    font-size: 175%; 
+    margin-top: 2em; 
+    margin-bottom: 2em;
+}
+h3 {
+    font-size: 150%; 
+    margin-top: 2em;
+}
+
+h4 {
+    font-size: 120%;
+}
+
+h5 {
+    font-size: 110%;
+}
+
+img {
+    border-radius: 1px;
+    border-style: dotted;
+    border-color: black;
+    text-align: center;
+}
+
+a:link {
+    color: rgb(10, 154, 211); 
+    text-decoration:none;
+    font-size: 1.1em;
+    font-weight: 400;
+}
+a:visited {
+    color:yellowgreen;
+    text-decoration:none;
+}
+a:hover {
+    background-color: white;
+    color: solid blueviolet;
+    border-bottom: black;
+}
